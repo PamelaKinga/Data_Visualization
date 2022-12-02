@@ -1,2 +1,2 @@
 # Data_Visualization
-Projects in data visualization
+📊|Projects in data visualization
